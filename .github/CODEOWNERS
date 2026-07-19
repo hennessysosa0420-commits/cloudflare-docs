@@ -1,3 +1,7 @@
+git add .github/CODEOWNERS
+git commit -m "Customize CODEOWNERS for Freaky Sosa Enterprises & Freaky Sosa XAI"
+git push
+
 # Default owners if not more specific match
 
 * @cloudflare/product-owners
